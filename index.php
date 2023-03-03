@@ -23,7 +23,7 @@ include('include/topbar.php'); ?>
                                 </div>
                                 <div class="col-11">
                                     <div class="d-flex justify-content-between align-items-center">
-                                        <h3 class="fpanel" style="font-size: 20px; padding-right: 2rem;">Farmers Panel</h3>
+                                        <h3 class="fpanel" style="font-size: 20px; padding-right: 2rem;">Farmers' Panel</h3>
                                     </div>
                                     <p class="poppins-regular" style="font-size: 15px; margin-top: 1rem;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis neque vel leo luctus aliquet.</p>
                                 </div>
