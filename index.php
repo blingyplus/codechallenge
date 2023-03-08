@@ -100,20 +100,11 @@ include('include/topbar.php'); ?>
                 </div> <!-- end col -->
             </div>
             <div class="row">
-                <div class="col-xl-12">
+                <div class="col-12">
                     <div class="card">
                         <div class="card-body">
-                            <div class="float-end align-items-center">
-                                <a href="#" class="text-mute mb-3 mt-0">
-                                    <i class="mdi mdi-plus-circle-outline"></i>
-                                    <i class="mdi mdi-minus-circle-outline"></i>
-                                    <i class="mdi mdi-hand-right"></i>
-                                    <i class="mdi mdi-home"></i>
-                                    <i class="mdi mdi-menu"></i>
-                                </a>
-                            </div>
                             <div dir="ltr">
-                                <div id="revenue-chart" class="apex-charts mt-3" data-colors="#727cf5,#0acf97"></div>
+                                <div id="area"></div>
                             </div>
                         </div>
                         <!-- end card body-->
@@ -160,8 +151,9 @@ include('include/topbar.php'); ?>
 <script src="assets/js/app.min.js"></script>
 
 <!-- Apex js -->
+<script src="assets/vendors/apexcharts/apexcharts.js"></script>
 <script src="assets/js/vendor/apexcharts.min.js"></script>
-
+<script src="assets/js/pages/ui-apexchart.js"></script>
 
 <!-- third party js -->
 <script src="assets/js/vendor/jquery-jvectormap-1.2.2.min.js"></script>
@@ -172,6 +164,7 @@ include('include/topbar.php'); ?>
 <script src="assets/js/ui/component.todo.js"></script>
 
 <!-- demo app -->
+<script src="assets/js/pages/dashboard.js"></script>
 <script src="assets/js/pages/demo.dashboard.js"></script>
 <!-- <script src="assets/js/pages/demo.dashboard.analytics.js"></script> -->
 <script src="assets/js/pages/demo.widgets.js"></script>
