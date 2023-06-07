@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-The Admin Dashboard is a modern and responsive KPI dashboard built using Bootstrap 5, HTML, and PHP. It provides a visually appealing and user-friendly interface for monitoring key performance indicators.
+This Boostrap Admin Dashboard is a modern and responsive KPI dashboard built using Bootstrap 5, HTML, and PHP. It provides a visually appealing and user-friendly interface for developing key performance indicators web apps.
 
 ![image](https://user-images.githubusercontent.com/113293972/223700722-dbfd5266-7c6d-48dc-b9bb-50a24f252b0f.png)
 
@@ -30,11 +30,11 @@ To install the Admin Dashboard, follow these steps:
 
 ## Usage
 
-Once installed and accessed, the Admin Dashboard provides an overview of the key performance indicators you have configured. You can interact with the charts and visualizations to gain insights into your data. Additionally, you can customize the dashboard by adding or modifying the KPIs and their corresponding visualizations.
+Once installed and accessed, it provides an overview of the key performance indicators you have configured. You can interact with the charts. Additionally, you can customize the dashboard by adding or modifying the KPIs and their corresponding visualizations.
 
 ## Contributing
 
-Contributions to the Admin Dashboard project are welcome. If you would like to contribute, please fork the repository and submit a pull request with your changes.
+Contributions to the project are welcome. If you would like to contribute, please fork the repository and submit a pull request with your changes.
 
 
 ## Credit
@@ -42,5 +42,3 @@ Contributions to the Admin Dashboard project are welcome. If you would like to c
 Get Bootstrap [https://themes.getbootstrap.com/product/hyper-responsive-admin-dashboard-template/]
 
 ---
-
-Thank you for choosing the Admin Dashboard. We hope this tool enhances your ability to monitor and analyze key performance indicators effectively.
