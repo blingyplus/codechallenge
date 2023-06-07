@@ -1,4 +1,4 @@
-# Admin Dashboard
+# Responsive Admin Dashboard
 
 This Boostrap Admin Dashboard is a modern and responsive KPI dashboard built using Bootstrap 5, HTML, and PHP. It provides a visually appealing and user-friendly interface for developing key performance indicators web apps.
 
