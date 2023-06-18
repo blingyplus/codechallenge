@@ -32,13 +32,5 @@ To install the Admin Dashboard, follow these steps:
 
 Once installed and accessed, it provides an overview of the key performance indicators you have configured. You can interact with the charts. Additionally, you can customize the dashboard by adding or modifying the KPIs and their corresponding visualizations.
 
-## Contributing
-
-Contributions to the project are welcome. If you would like to contribute, please fork the repository and submit a pull request with your changes.
-
-
-## Credit
-
-Get Bootstrap [https://themes.getbootstrap.com/product/hyper-responsive-admin-dashboard-template/]
 
 ---
